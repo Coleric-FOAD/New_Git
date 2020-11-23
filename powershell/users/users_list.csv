@@ -1,0 +1,3 @@
+firstname;lastname;username;department;password;ou
+Jean;Dupont;jdupont;OFP;azerty1234;OU=OFP,DC=mondomaine,DC=com
+Paul;Duchemin;pduchemin;RH;1234azerty;OU=RH,DC=mondomaine,DC=com
