@@ -3,7 +3,6 @@ $ADUsers = Import-csv .\users_list.csv
 
 foreach ($User in $ADUsers)
 {
-
     $Username    = $User.username
     $Password    = $User.password
     $Firstname   = $User.firstname
